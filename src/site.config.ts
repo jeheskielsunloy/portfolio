@@ -39,7 +39,7 @@ export const BOT_NAME = 'jassist'
 export const EMAIL = 'me@jeheskielsunloy.com'
 export const APP_NAME = 'jeheskielsunloy.com'
 export const WEBSITE_URL = 'https://jeheskielsunloy.com'
-export const SOURCE_CODE_URL = 'https://github.com/jeheskielSunloy77/portfolio'
+export const SOURCE_CODE_URL = 'https://github.com/jeheskielsunloy/portfolio'
 
 export const HEADLINE = 'software engineer hailing from Indonesia 🇮🇩'
 export const TAGLINE =
@@ -107,7 +107,7 @@ export const SOCIALS = [
 	},
 	{
 		name: 'GitHub',
-		href: 'https://github.com/jeheskielSunloy77',
+		href: 'https://github.com/jeheskielsunloy',
 		icon: Github,
 	},
 	{
@@ -316,7 +316,7 @@ export const PROJECTS: Project[] = [
 	{
 		isFeatured: true,
 		name: 'Go Kickstart, Launch Full-Stack Go with Structure',
-		href: 'https://github.com/jeheskielSunloy77/go-kickstart',
+		href: 'https://github.com/jeheskielsunloy/go-kickstart',
 		description:
 			'An interactive and scriptable scaffolder that creates a clean architecture codebase with auth, PostgreSQL, Redis jobs, email templating, and optional frontend support in one guided flow.',
 		tags: ['go', 'cli', 'dev-tools', 'turborepo', 'clean-architecture'],
@@ -324,7 +324,7 @@ export const PROJECTS: Project[] = [
 		links: [
 			{
 				label: 'Source',
-				href: 'https://github.com/jeheskielSunloy77/go-kickstart',
+				href: 'https://github.com/jeheskielsunloy/go-kickstart',
 				icon: Github,
 				variation: 'default',
 				isExternal: true,
@@ -340,7 +340,7 @@ export const PROJECTS: Project[] = [
 	},
 	{
 		name: 'Job Scout, Developer-First Engine for Job Board Aggregation',
-		href: 'https://github.com/jeheskielSunloy77/job-scout',
+		href: 'https://github.com/jeheskielsunloy/job-scout',
 		description:
 			'A modular scraping engine powered by Crawlee that supports batch collection and event streaming, making it easy to build job feeds, alerts, and hiring intelligence products.',
 		tags: ['typescript', 'library', 'scraping', 'nodejs'],
@@ -348,7 +348,7 @@ export const PROJECTS: Project[] = [
 		links: [
 			{
 				label: 'Source',
-				href: 'https://github.com/jeheskielSunloy77/job-scout',
+				href: 'https://github.com/jeheskielsunloy/job-scout',
 				icon: Github,
 				isExternal: true,
 			},
@@ -379,7 +379,7 @@ export const PROJECTS: Project[] = [
 	},
 	{
 		name: 'Kern, Read Anywhere on Any Screen',
-		href: 'https://github.com/jeheskielSunloy77/kern',
+		href: 'https://github.com/jeheskielsunloy/kern',
 		description:
 			'A cross-platform reading platform with a Go-powered TUI CLI, modern web app, and native-feeling iOS and Android apps built with React Native Expo, all backed by a shared backend core.',
 		tags: ['go', 'tui', 'bun', 'turborepo', 'typescript', 'postgresql'],
@@ -387,7 +387,7 @@ export const PROJECTS: Project[] = [
 		links: [
 			{
 				label: 'Source',
-				href: 'https://github.com/jeheskielSunloy77/kern',
+				href: 'https://github.com/jeheskielsunloy/kern',
 				icon: Github,
 				isExternal: true,
 			},
@@ -395,7 +395,7 @@ export const PROJECTS: Project[] = [
 	},
 	{
 		name: 'Volatile, The Ops Studio for Stateful Caching Systems',
-		href: 'https://github.com/jeheskielSunloy77/volatile',
+		href: 'https://github.com/jeheskielsunloy/volatile',
 		description:
 			'A modern desktop platform for cache operations that combines observability dashboards, workflow orchestration, and governance controls across Redis and Memcached connections.',
 		tags: ['electron', 'typescript', 'redis', 'memcached', 'desktop'],
@@ -403,13 +403,13 @@ export const PROJECTS: Project[] = [
 		links: [
 			{
 				label: 'Source',
-				href: 'https://github.com/jeheskielSunloy77/volatile',
+				href: 'https://github.com/jeheskielsunloy/volatile',
 				icon: Github,
 				isExternal: true,
 			},
 			{
 				label: 'Download',
-				href: 'https://github.com/jeheskielSunloy77/volatile/releases/latest',
+				href: 'https://github.com/jeheskielsunloy/volatile/releases/latest',
 				icon: Download,
 				variation: 'secondary',
 				isExternal: true,
@@ -425,7 +425,7 @@ export const PROJECTS: Project[] = [
 		links: [
 			{
 				label: 'Source',
-				href: 'https://github.com/jeheskielSunloy77/react-native-coffee-shop',
+				href: 'https://github.com/jeheskielsunloy/react-native-coffee-shop',
 				icon: Github,
 				isExternal: true,
 			},

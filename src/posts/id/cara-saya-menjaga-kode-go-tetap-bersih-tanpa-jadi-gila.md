@@ -17,7 +17,7 @@ Saya tidak terlalu tertarik dengan keduanya.
 
 Yang saya pedulikan adalah struktur yang masih masuk akal ketika project sudah lewat fase CRUD, mulai punya frontend, authentication, background job, email workflow, shared package, dan engineer kedua yang tidak ikut mendengar penjelasan arsitektur di hari pertama.
 
-Itulah alasan saya membangun [`go-kickstart`](https://github.com/jeheskielSunloy77/go-kickstart): CLI yang men-scaffold monorepo full-stack skala produksi dengan backend Go, frontend React, dan susunan codebase yang mengikuti Clean Architecture secara pragmatis, bukan sekadar terlihat rapi di diagram.
+Itulah alasan saya membangun [`go-kickstart`](https://github.com/jeheskielsunloy/go-kickstart): CLI yang men-scaffold monorepo full-stack skala produksi dengan backend Go, frontend React, dan susunan codebase yang mengikuti Clean Architecture secara pragmatis, bukan sekadar terlihat rapi di diagram.
 
 ## Kenapa saya membangun go-kickstart
 

@@ -17,7 +17,7 @@ I am not interested in either.
 
 I care about a structure that still makes sense when a project grows past CRUD, gains a frontend, adds authentication, background jobs, email workflows, shared packages, and a second engineer who did not sit through the original architecture pitch.
 
-That is the reason I built [`go-kickstart`](https://github.com/jeheskielSunloy77/go-kickstart): a CLI that scaffolds a production-scale full-stack monorepo with a Go backend, a React frontend, and a codebase shaped around practical Clean Architecture instead of architecture theater.
+That is the reason I built [`go-kickstart`](https://github.com/jeheskielsunloy/go-kickstart): a CLI that scaffolds a production-scale full-stack monorepo with a Go backend, a React frontend, and a codebase shaped around practical Clean Architecture instead of architecture theater.
 
 ## Why I built go-kickstart
 
